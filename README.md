@@ -31,7 +31,7 @@
 
 ## 📚 Learning & Goals  
 
-🎥 Currently following: [How to Install & Use Hyperland on Kali Linux](https://www.youtube.com/watch?v=nCHt8lMvIuo&list=LL&index=5&t=57s)  
+🎥 Currently following: [How to easily PASS Security+ And how to know when you're ready to take it] https://www.youtube.com/watch?v=qKeQh5a0EBg&list=LL&index=15
 
 
 ## 🎓 Certifications
