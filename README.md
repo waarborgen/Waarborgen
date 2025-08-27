@@ -80,7 +80,6 @@
   <!-- John the Ripper -->
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="60" height="50"/>
   
- <!-- Bleach Skull -->
-<img src="https://raw.githubusercontent.com/waarborgen/waarborgen/main/images/bleach.png" alt="Bleach Anime" width="60" height="60"/>
-
+<!-- Bleach Skull -->
+<img src="https://static.wikia.nocookie.net/multiversology/images/9/98/AAAABW0aqsMXkfu6FHCPHWXz7CLwfHoa6_tRNNU5qa_TvivixaL_TzZHUgMR2zjXjqUNP2PC87t-M9Q8rX2MZxXZ3eK1vlyz7zePqnuWx1X0Y1rwpOxCD0Fi2T4RJY9k2VGYCCZer9Q4K7yNAPaQkdcm5r9P9SiTB1JFiPY.png" alt="Bleach Anime" width="60" height="60"/>
 
