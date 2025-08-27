@@ -52,6 +52,9 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   
+  <!-- Ubuntu -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
+  
   <!-- Kali Linux -->
   <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
   
@@ -63,4 +66,23 @@
   
   <!-- Cybersecurity -->
   <img src="https://img.icons8.com/color/48/cyber-security.png" alt="Cybersecurity" width="50" height="50"/>
+  
+  <!-- Wi-Fi -->
+  <img src="https://img.icons8.com/color/48/wifi.png" alt="Wi-Fi" width="50" height="50"/>
+  
+  <!-- Microsoft 365 -->
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="Microsoft 365" width="50" height="50"/>
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  
+  <!-- Hydra -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Hydra_logo.png" alt="Hydra" width="60" height="50"/>
+  
+  <!-- John the Ripper -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/John_the_Ripper_logo.png" alt="John the Ripper" width="60" height="50"/>
+  
+  <!-- Bleach Skull -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Hollow_mask_bleach.png" alt="Bleach Anime" width="60" height="60"/>
 </p>
+
