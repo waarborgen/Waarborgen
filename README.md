@@ -29,6 +29,20 @@
 
 ⚡ *“Security isn’t a product—it’s a process.”*
 
+## 📚 Learning & Goals  
+
+🎥 Currently following: [How to Install & Use Hyperland on Kali Linux](https://www.youtube.com/watch?v=nCHt8lMvIuo&list=LL&index=5&t=57s)  
+
+🎯 Certifications I’m working towards:  
+- 🔐 CompTIA **Security+** (CE)  
+- 🌐 Cisco **CCNA** (CE)  
+
+⚡ Skills I’m building right now:  
+- 🐉 Using **Hyperland with Kali Linux**  
+- ☁️ Cybersecurity & Cloud engineering  
+- 🛡️ Penetration testing & network defense
+
+
 
 ## 🧩 Core Skills
 
