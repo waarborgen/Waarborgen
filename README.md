@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Welcome to Waarborgen's Profile  
 
-<!--
-**waarborgen/Waarborgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Future Cybersecurity & Cloud Specialist**  
+💻 Passionate about IT systems, Windows servers & security  
+🎯 Currently studying **Cybersecurity & Cloud Engineering**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Expertise
+- 🖥️ **Windows Server Administration**  
+- ⚙️ **Group Policy Objects (GPOs)** — Pro-level configuration & management  
+- 🔒 IT Security Fundamentals & Network Hardening  
+- ☁️ Cloud & Virtualization (learning path)  
+- 🛠️ Troubleshooting & advanced support  
+
+---
+
+## 🎓 Education Path
+- 📘 **Allround Medewerker IT Systems & Devices** ✅ (completed)  
+- 📗 **Expert IT Systems & Devices** ✅ (completed)  
+- 📕 **Cybersecurity & Cloud Engineering** 🎓 (current)  
+
+---
+
+## 📊 GitHub Stats
+![Waarborgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=waarborgen&show_icons=true&theme=radical)
+
+---
+
+⚡ *“Security isn’t a product—it’s a process.”*
