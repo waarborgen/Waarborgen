@@ -41,7 +41,7 @@
   - Cisco **CCNA** (CE)
 
 
-## 🧩 Core Skills
+## ​ Core Skills
 
 <p align="left">
   <!-- Windows -->
@@ -80,7 +80,7 @@
   <!-- John the Ripper -->
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="60" height="50"/>
   
-  <!-- Bleach Skull -->
-  <img src="https://www.pngegg.com/en/png-dnjef" alt="Bleach Anime" width="60" height="60"/>
+  <!-- Bleach Skull (your new image) -->
+  <img src="https://raw.githubusercontent.com/waarborgen/waarborgen/main/images/bleach.png" alt="Bleach Anime" width="60" height="60"/>
 </p>
 
