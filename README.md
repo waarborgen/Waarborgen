@@ -30,7 +30,7 @@
 ⚡ *“Security isn’t a product—it’s a process.”*
 
 
-## 🛠️ Tech Stack
+## 🧩 Core Skills
 
 <p align="left">
   <!-- Windows -->
@@ -45,8 +45,8 @@
   <!-- PowerShell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="Powershell" width="50" height="50"/>
   
-  <!-- Cisco / Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco Networking" width="50" height="50"/>
+  <!-- Cisco -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" width="70" height="50"/>
   
   <!-- Cybersecurity -->
   <img src="https://img.icons8.com/color/48/cyber-security.png" alt="Cybersecurity" width="50" height="50"/>
