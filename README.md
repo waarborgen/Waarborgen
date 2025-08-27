@@ -41,7 +41,6 @@
   - Cisco **CCNA** (CE)
 
 
-
 ## 🧩 Core Skills
 
 <p align="left">
@@ -79,9 +78,8 @@
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="60" height="50"/>
   
   <!-- John the Ripper -->
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/icon_IYPvLxG.png" alt="John the Ripper" width="60" height="50"/>
+  <img src="https://www.openwall.com/john/john-logo.png" alt="John the Ripper" width="60" height="50"/>
   
   <!-- Bleach Skull -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Hollow_mask_bleach.png" alt="Bleach Anime" width="60" height="60"/>
+  <img src="https://static.wikia.nocookie.net/bleach/images/9/99/Hollow_mask.png" alt="Bleach Anime" width="60" height="60"/>
 </p>
-
