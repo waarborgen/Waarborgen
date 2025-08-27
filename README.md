@@ -28,3 +28,26 @@
 ---
 
 ⚡ *“Security isn’t a product—it’s a process.”*
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  
+  <!-- Kali Linux -->
+  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" width="50" height="50"/>
+  
+  <!-- PowerShell -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="Powershell" width="50" height="50"/>
+  
+  <!-- Cisco / Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco Networking" width="50" height="50"/>
+  
+  <!-- Cybersecurity -->
+  <img src="https://img.icons8.com/color/48/cyber-security.png" alt="Cybersecurity" width="50" height="50"/>
+</p>
