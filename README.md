@@ -81,6 +81,6 @@
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="60" height="50"/>
   
   <!-- Bleach Skull -->
-  <img src="https://static.wikia.nocookie.net/bleach/images/9/99/Hollow_mask.png" alt="Bleach Anime" width="60" height="60"/>
+  <img src="https://www.pngegg.com/en/png-dnjef" alt="Bleach Anime" width="60" height="60"/>
 </p>
 
