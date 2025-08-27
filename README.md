@@ -77,10 +77,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   
   <!-- Hydra -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Hydra_logo.png" alt="Hydra" width="60" height="50"/>
+  <img src="https://raw.githubusercontent.com/praetorian-inc/Hydra/master/images/hydra-logo.png" alt="Hydra" width="60" height="50"/>
   
   <!-- John the Ripper -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/John_the_Ripper_logo.png" alt="John the Ripper" width="60" height="50"/>
+  <img src="https://www.openwall.com/john/john-logo.png" alt="John the Ripper" width="60" height="50"/>
   
   <!-- Bleach Skull -->
   <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Hollow_mask_bleach.png" alt="Bleach Anime" width="60" height="60"/>
