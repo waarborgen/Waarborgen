@@ -1,8 +1,5 @@
 # 👋 Welcome to Waarborgen's Profile  
 
-🔐 **Future Cybersecurity & Cloud Specialist**  
-💻 Passionate about IT systems, Windows servers & security  
-🎯 Currently studying **Cybersecurity & Cloud Engineering**  
 
 ---
 
