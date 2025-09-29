@@ -27,7 +27,6 @@
 
 ---
 
-⚡ *“Security isn’t a product—it’s a process.”*
 
 ## 📚 Learning & Goals  
 
